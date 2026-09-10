@@ -3,6 +3,7 @@
 # 🪻 ‧₊˚ Nicole Alvear ˚₊‧ 💜
 
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThlZjZ0bmxvdXBvMGZyc3FjcWJjcWVyc3l1dmxreTBvYXBhOGszeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4N83X0RyrVInR29f2J/giphy.gif" width="160px">
 
 ✨ *loading....* ✨
 
