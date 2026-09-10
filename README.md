@@ -23,7 +23,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicole-vqz&show_icons=true&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-vqz&layout=compact&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="45%">
+
 
 </div>
