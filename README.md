@@ -4,7 +4,7 @@
 
 <img src="https://i.giphy.com/media/hrBwvnvKIxA52/giphy.webp" width="160px">
 
-✨ *loading....* ✨
+✨ *loading ....* ✨
 
 ---
 </div>
