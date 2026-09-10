@@ -2,14 +2,12 @@
 
 # 🪻 ‧₊˚ Nicole Alvear ˚₊‧ 💜
 
-<!-- GIF DE KUROMI FUNCIONAL -->
-<img src="https://raw.githubusercontent.com/SaadBlogs/SaadBlogs/main/assets/kuromi.gif" width="160px">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1a3BqbmRkMHp6b3J2aWZpMmsycWJpd20xaTJueGFsa3N5dW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120px](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azhsazB6ejMzYnllbjdzZ3ZhYTJ1bXp5MG04dGh5ZzZ4cHN3NDlpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qz6KmDIRiQTfy/giphy.gif)">
 
 ✨ *loading....* ✨
 
 ---
 </div>
-
 ---
 
 ### ☪︎ ₊˚. Tech & Tools
@@ -24,8 +22,5 @@
 
 <div align="center">
 
-<!-- ESTADÍSTICAS LILA -->
-<img src="https://github-readme-stats.vercel.app/api?username=nicole-vqz&show_icons=true&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-vqz&layout=compact&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="45%">
 
 </div>
