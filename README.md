@@ -2,13 +2,13 @@
 
 # 🪻 ‧₊˚ Nicole Alvear ˚₊‧ 💜
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1a3BqbmRkMHp6b3J2aWZpMmsycWJpd20xaTJueGFsa3N5dW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120px](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azhsazB6ejMzYnllbjdzZ3ZhYTJ1bXp5MG04dGh5ZzZ4cHN3NDlpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qz6KmDIRiQTfy/giphy.gif)">
+<img src="(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azhsazB6ejMzYnllbjdzZ3ZhYTJ1bXp5MG04dGh5ZzZ4cHN3NDlpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qz6KmDIRiQTfy/giphy.gif)">
 
 ✨ *loading....* ✨
 
-
-</div>
 ---
+</div>
+
 
 ### ☪︎ ₊˚. Tech & Tools
 
