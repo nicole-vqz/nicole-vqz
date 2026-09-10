@@ -2,8 +2,8 @@
 
 # 🪻 ‧₊˚ Nicole Alvear ˚₊‧ 💜
 
+<!-- AQUÍ VA EL GIF DE KUROMI -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThlZjZ0bmxvdXBvMGZyc3FjcWJjcWVyc3l1dmxreTBvYXBhOGszeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4N83X0RyrVInR29f2J/giphy.gif" width="160px">
-
 
 ✨ *loading....* ✨
 
@@ -22,9 +22,10 @@
 
 ---
 
-
 <div align="center">
 
-
+<!-- ESTADÍSTICAS LILA -->
+<img src="https://github-readme-stats.vercel.app/api?username=nicole-vqz&show_icons=true&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-vqz&layout=compact&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="45%">
 
 </div>
