@@ -2,9 +2,9 @@
 
 # 🪻 ‧₊˚ Nicole Alvear ˚₊‧ 💜
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1a3BqbmRkMHp6b3J2aWZpMmsycWJpd20xaTJueGFsa3N5dW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120px">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1a3BqbmRkMHp6b3J2aWZpMmsycWJpd20xaTJueGFsa3N5dW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120px](https://share.google/72DPfFGR9iZqrOocC)">
 
-✨ *bioengineering student & tech enthusiast* ✨
+✨ *loading....* ✨
 
 ---
 </div>
@@ -21,9 +21,10 @@
 
 ---
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicole-vqz&show_icons=true&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-vqz&layout=compact&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=nicole-vqz&show_icons=true&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424&border_color=e0b0ff" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-vqz&layout=compact&theme=synthwave&hide_border=true&title_color=e0b0ff&text_color=f8f8f2&bg_color=181424&border_color=e0b0ff" width="45%">
 
 </div>
